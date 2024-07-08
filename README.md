@@ -12,7 +12,7 @@ AdVision AI is an innovative project that leverages object detection technology 
 - Programming Languages: [Specify languages used, e.g., Python, JavaScript, etc.].
 - Frameworks and Libraries: [List any other frameworks or libraries used in the project].
 
-# Output Video [Click Here](https://drive.google.com/file/d/1a0Y7sRkH5aL33jB2HXMLVgBJ7xoWBfjW/view?usp=sharing)
+# Output Video [Click Here](https://drive.google.com/file/d/1xmkSSD84mVihRhburo65B1WPkuLCbf_7/view?usp=sharing)
 
 
 
