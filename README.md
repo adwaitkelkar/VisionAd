@@ -13,7 +13,5 @@ Frameworks and Libraries: [List any other frameworks or libraries used in the pr
 
 # Output Video [Click Here](https://drive.google.com/file/d/1a0Y7sRkH5aL33jB2HXMLVgBJ7xoWBfjW/view?usp=sharing)
 
-# Installation
-Clone the repository:
-'git clone https://github.com/yourusername/VisionAd.git'
+
 
