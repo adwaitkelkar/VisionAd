@@ -13,23 +13,7 @@ Frameworks and Libraries: [List any other frameworks or libraries used in the pr
 
 # Output Video [Click Here](https://drive.google.com/file/d/1a0Y7sRkH5aL33jB2HXMLVgBJ7xoWBfjW/view?usp=sharing)
 
-Installation
+# Installation
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/AdVision-AI.git
-Navigate to the project directory:
-bash
-Copy code
-cd AdVision-AI
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Prepare your video content and ensure it is accessible to the script.
-Run the main script:
-bash
-Copy code
-python main.py
-Watch as the AI detects objects and dynamically displays relevant ads.
+'git clone https://github.com/yourusername/VisionAd.git'
+
